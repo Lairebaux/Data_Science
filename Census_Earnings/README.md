@@ -1,0 +1,1 @@
+## The hypothese in this folder evalute variables that may affect income: race, gender, age, etc. 

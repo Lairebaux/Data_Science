@@ -1,0 +1,1 @@
+### Average sales for a car dealership in a given month.
