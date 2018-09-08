@@ -1,1 +1,1 @@
-### Predicting pizza prices from its size.
+### Predicting pizza prices from their sizes.
